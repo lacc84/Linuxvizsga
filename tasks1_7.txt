@@ -1,0 +1,16 @@
+1, a POSIX a Unix op. rendszer szabványait tartalmazza
+
+2, X11: hálózati protokoll
+
+3, Stdin: billentyűzet, egér
+
+4, stdout: monitor
+
+5, Daemonok: háttérben futó rendszerfolyamatok
+
+6, /bin, /etc/, /usr: felhasználói progrmok /home: a felhasználó saját könyvtára
+
++1 relatív elérési útnonal: /'Vizsga linux'/linux-feladat
+abszolút elérési útvonal: /home/gyulas84/'Vizsga linux'/linux-feladat
+
+elfelejtettem alkalmazni
